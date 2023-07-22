@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    margin: 10px;
+}
+.container1{
+    display: flex;
+}
+.cuadro{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+    border: 1px solid black;
+}
+.container2{
+    margin-top: 10px;
+}
+
+#key{
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+    border: 1px solid black;
+}
+.cont2{
+    display: flex;
+}
+.mensaje{
+    margin-top: 100px;
+}
+#key1{
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+    border: 1px solid black;
+}
+.cont3{
+    display: flex;
+}
+.mensaje1{
+    margin-top: 100px;
+}
+.mensaje3{
+    background-color: red;
+    display: flex;
+    justify-content: center;
+}
